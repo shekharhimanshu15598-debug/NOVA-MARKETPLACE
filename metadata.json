@@ -1,0 +1,6 @@
+{
+  "name": "NOVA — Buy, Sell & Rent Everything",
+  "description": "A premium multi-category marketplace to buy, sell, rent, and list automobiles, electronics, furniture, appliances, tools, and lifestyle physical goods.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
